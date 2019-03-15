@@ -1,7 +1,7 @@
 {
-  "name": "file-exists",
-  "version": "5.0.1",
-  "description": "Check if filepath exists and is a file",
+  "name": "file-exists-dazinatorfork",
+  "version": "1.0.0",
+  "description": "Check if filepath exists and is a file. Note this is a fork of file-exists dpenedency with some ammendments.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:scottcorgan/file-exists.git"
+    "url": "git@github.com:dazinator/file-exists.git"
   },
   "keywords": [
     "file",
@@ -23,12 +23,12 @@
   "author": "Scott Corgan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scottcorgan/file-exists/issues"
+    "url": "https://github.com/dazinator/file-exists/issues"
   },
   "engines": {
     "node": ">=6.0.0"
   },
-  "homepage": "https://github.com/scottcorgan/file-exists",
+  "homepage": "https://github.com/dazinator/file-exists",
   "devDependencies": {
     "@tap-format/spec": "^0.2.0",
     "async": "^2.1.4",
